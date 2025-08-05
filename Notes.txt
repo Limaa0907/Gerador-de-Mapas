@@ -1,0 +1,9 @@
+-ORGANIZAÇÃO DE CÓDIGO-
+
+->Constantes = TUDOMAIUSCULO
+
+->Objetos de Struct e Classe = tudo_minusculo_com_underline
+
+->Métodos = _minusculoMaiusculo
+
+->Parametros/Variáveis = englishtinyletter
